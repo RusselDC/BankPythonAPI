@@ -1,0 +1,13 @@
+{
+    "card_transaction_history":{
+        "12312314251-2024091315041261645":{
+            "account_number":"1234567890123456",
+            "amount_transacted": 5000,
+            "receiver_or_sender": "CITCO",
+            "transaction_type": "credit",
+            "transaction_date": "2024-09-13",
+            "description": "Salary",
+            "balance": 5000
+        }
+    }
+}

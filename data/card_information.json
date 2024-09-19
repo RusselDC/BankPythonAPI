@@ -1,0 +1,22 @@
+{
+    "card_information": {
+        "1234567890123456": {
+            "card_holder": "John Doe",
+            "status": 1,
+            "balance": 5000,
+            "pin": 1234
+        },
+        "12345678": {
+            "card_holder": "Russel Dela Cruz",
+            "status": 0,
+            "balance": 0,
+            "pin": 3789
+        },
+        "12345679": {
+            "card_holder": "Juan Dela Cruz",
+            "status": 0,
+            "balance": 0,
+            "pin": 3459
+        }
+    }
+}
